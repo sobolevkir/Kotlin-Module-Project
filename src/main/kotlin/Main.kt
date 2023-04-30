@@ -40,4 +40,7 @@ fun main(args: Array<String>) {
 
     println("Вы вышли из программы. До встречи!")
 
+
+    println("Hello World!")
+
 }
