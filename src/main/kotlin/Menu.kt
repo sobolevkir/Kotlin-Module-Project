@@ -57,7 +57,6 @@ class Menu {
     }
 
     fun checkPoint(point: Int): Int {
-
         val input = Scanner(System.`in`)
         while (true) {
             if (input.hasNextInt()) {

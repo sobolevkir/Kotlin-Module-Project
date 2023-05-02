@@ -9,4 +9,5 @@ enum class MenuSection(val sectionName: String) {
             NoteMenu -> "Создать заметку"
         }
     }
+
 }
