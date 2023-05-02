@@ -1,3 +1,6 @@
+import java.util.Scanner
+val input = Scanner(System.`in`)
+
 fun main() {
 
     println("Добро пожаловать в программу \"ЗАМЕТКИ!\"")
