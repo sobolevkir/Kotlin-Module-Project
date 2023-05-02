@@ -5,7 +5,6 @@ class Menu {
         println("--------------")
         println(menuSection.sectionName)
         println("--------------")
-
         println("Выберите пункт меню: ")
 
         when (menuSection) {
