@@ -1,4 +1,5 @@
 import java.util.Scanner
+
 val input = Scanner(System.`in`)
 
 fun main() {

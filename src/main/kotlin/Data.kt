@@ -14,7 +14,7 @@ class ArchiveData(val archiveMap: MutableMap<String, NotesData>) {
 
     fun makeArchive() {
         print("Введите название архива: ")
-        val archiveName = input.next()
+        val archiveName = input.nextLine()
         archiveMap[archiveName] = NotesData(mutableMapOf())
         println("Архив создан!")
     }
