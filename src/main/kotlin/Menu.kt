@@ -55,7 +55,6 @@ class Menu {
     }
 
     fun checkPoint(point: Int): Int {
-
         while (true) {
             if (input.hasNextInt()) {
                 val selectPoint = input.nextInt()
